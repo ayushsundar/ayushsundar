@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Ayush
 
-I’m a CS + Math student at the University of Maryland, and I love using data to model complex systems—whether in markets, sports, or games.
+I’m a CS and Math student at the University of Maryland, and I love using data to model complex systems. Whether it's markets, sports, or games, I'm drawn to environments where decisions matter.
 
 Right now, I’m building:
 
