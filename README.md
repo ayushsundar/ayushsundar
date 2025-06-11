@@ -4,9 +4,9 @@ I’m a CS and Math student at the University of Maryland, and I love using data
 
 Right now, I’m building:
 
-- 🧠 A stock direction predictor using LSTMs and Fourier transforms  
-- ♟️ A real-time chess betting platform where users can wager on individual moves and outcomes
-- 🤖 A simulation project exploring how market-making bots behave under different levels of information access in prediction markets.
+- ♟️ Predicting Magnus Carlsen’s next move using real-time probabilities, combining Stockfish analysis with style-based clustering
+- 🤖 A simulation project exploring how market-making bots behave under different levels of information access in prediction markets
+- 🧠 A stock direction predictor using LSTMs and Fourier transforms
 
 I’ve had the chance to work at places like **Scale AI** and **Rithmm**, where I built machine learning models for sports prediction and misinformation detection. I'm currently interning at **Capital One** as a **Gen AI SWE Intern**. Those experiences have shaped the way I think about uncertainty, pattern recognition, and edge.
 
