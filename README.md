@@ -8,7 +8,7 @@ Right now, I’m working on:
 - 🧠 A stock direction predictor using LSTMs and Fourier transforms
 
 I recently built:
-🤖 A market-making simulator that explores how bots behave under different levels of information access in prediction markets
+- 🤖 A market-making simulator that explores how bots behave under different levels of information access in prediction markets
 
 I’ve had the chance to work at places like **Scale AI** and **Rithmm**, where I built machine learning models for sports prediction and misinformation detection. I'm currently interning at **Capital One** as a **Gen AI SWE Intern**. Those experiences have shaped the way I think about uncertainty, pattern recognition, and edge.
 
