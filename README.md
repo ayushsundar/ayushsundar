@@ -5,7 +5,7 @@ I’m a CS and Math student at the University of Maryland, and I love using data
 Right now, I’m working on:
 
 - ♟️ Predicting Magnus Carlsen’s next move using real-time probabilities, combining Stockfish analysis with style-based clustering
-- Exploring injury-based latency trading in sports markets, tracking how odds react after injury news hits to find early edge opportunities
+- 🏀 Exploring injury-based latency trading in sports markets, tracking how odds react after injury news hits to find early edge opportunities
 
 I recently built:
 - 🤖 A market-making simulator that explores how bots behave under different levels of information access in prediction markets
